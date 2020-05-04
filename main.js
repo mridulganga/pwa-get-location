@@ -16,4 +16,3 @@ function showPosition(position) {
     alert("lat" + location.latitude + " , lng : " + location.longitude)
 }
 //request for location
-getLocation();

@@ -1,8 +1,9 @@
 {
+    "display": "standalone",
     "description": "Shows random fox pictures. Hey, at least it isn't cats.",
     "icons": [{
         "src": "icon.png",
-        "sizes": "192x192",
+        "sizes": "512x512",
         "type": "image/png"
     }],
     "name": "Location PWA",
